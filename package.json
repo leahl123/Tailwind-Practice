@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "tailwind sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahl123/Tailwind-Practice.git"
+  },
+  "author": "Leah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahl123/Tailwind-Practice/issues"
+  },
+  "homepage": "https://github.com/leahl123/Tailwind-Practice#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
